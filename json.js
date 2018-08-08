@@ -1,0 +1,1 @@
+const myObjJson = '{"people":[{"firstName":"Mike","lastName":"Smith","age":30},{"firstName":"Moh","lastName":"Moharram","age":42}],"places":[{"location":"New York","lat":67,"long":110},{"location":"Egypt","lat":70,"long":88}]}'
